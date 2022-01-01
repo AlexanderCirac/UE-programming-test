@@ -1,0 +1,16 @@
+C:\Users\alexe\Desktop\Prueba_TrooperBLack\Intermediate\Build\Win64\UE4Editor\Development\Prueba_TrooperBLack\Definitions.Prueba_TrooperBLack.h
+C:\Users\alexe\Desktop\Prueba_TrooperBLack\Source\Prueba_TrooperBLack\MyWidgetBlueprint.h
+D:\Juegos\Epic\UE_4.25\Engine\Source\Editor\UMGEditor\Public\WidgetBlueprint.h
+D:\Juegos\Epic\UE_4.25\Engine\Source\Editor\UnrealEd\Public\BaseWidgetBlueprint.h
+D:\Juegos\Epic\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\BaseWidgetBlueprint.generated.h
+D:\Juegos\Epic\UE_4.25\Engine\Source\Runtime\UMG\Public\Binding/DynamicPropertyPath.h
+D:\Juegos\Epic\UE_4.25\Engine\Source\Runtime\PropertyPath\Public\PropertyPathHelpers.h
+D:\Juegos\Epic\UE_4.25\Engine\Source\Runtime\PropertyPath\Public\PropertyTypeCompatibility.h
+D:\Juegos\Epic\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\PropertyPath\PropertyPathHelpers.generated.h
+D:\Juegos\Epic\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\DynamicPropertyPath.generated.h
+D:\Juegos\Epic\UE_4.25\Engine\Source\Runtime\UMG\Public\Blueprint/WidgetBlueprintGeneratedClass.h
+D:\Juegos\Epic\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetBlueprintGeneratedClass.generated.h
+D:\Juegos\Epic\UE_4.25\Engine\Source\Runtime\UMG\Public\Animation/WidgetAnimationBinding.h
+D:\Juegos\Epic\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetAnimationBinding.generated.h
+D:\Juegos\Epic\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMGEditor\WidgetBlueprint.generated.h
+C:\Users\alexe\Desktop\Prueba_TrooperBLack\Intermediate\Build\Win64\UE4Editor\Inc\Prueba_TrooperBLack\MyWidgetBlueprint.generated.h

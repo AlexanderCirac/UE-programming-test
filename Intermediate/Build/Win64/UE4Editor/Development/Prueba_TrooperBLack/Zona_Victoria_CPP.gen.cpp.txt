@@ -1,0 +1,5 @@
+C:\Users\alexe\Desktop\Prueba_TrooperBLack\Intermediate\Build\Win64\UE4Editor\Development\Prueba_TrooperBLack\Definitions.Prueba_TrooperBLack.h
+D:\Juegos\Epic\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Juegos\Epic\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\alexe\Desktop\Prueba_TrooperBLack\Source\Prueba_TrooperBLack/Zona_Victoria_CPP.h
+C:\Users\alexe\Desktop\Prueba_TrooperBLack\Intermediate\Build\Win64\UE4Editor\Inc\Prueba_TrooperBLack\Zona_Victoria_CPP.generated.h

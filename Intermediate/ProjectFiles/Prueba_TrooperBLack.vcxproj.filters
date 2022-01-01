@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Prueba_TrooperBLack.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{27B6B336-7AE2-48B6-B5B4-4570188779ED}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Prueba_TrooperBLack.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Prueba_TrooperBLackEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{BD8FF51E-C3E0-41DE-8226-0A0A223AF2F8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Prueba_TrooperBLack">
+      <UniqueIdentifier>{2034CBE6-8685-4492-8370-455EF324633F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Prueba_TrooperBLack\Activar_Arma_CPP.cpp">
+      <Filter>Source\Prueba_TrooperBLack</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Prueba_TrooperBLack\Activar_Arma_CPP.h">
+      <Filter>Source\Prueba_TrooperBLack</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Prueba_TrooperBLack\AC_salud_CPP.cpp">
+      <Filter>Source\Prueba_TrooperBLack</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Prueba_TrooperBLack\AC_salud_CPP.h">
+      <Filter>Source\Prueba_TrooperBLack</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Prueba_TrooperBLack\GameInstance_CPP.cpp">
+      <Filter>Source\Prueba_TrooperBLack</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Prueba_TrooperBLack\GameInstance_CPP.h">
+      <Filter>Source\Prueba_TrooperBLack</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Prueba_TrooperBLack\MyWidgetBlueprint.cpp">
+      <Filter>Source\Prueba_TrooperBLack</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Prueba_TrooperBLack\MyWidgetBlueprint.h">
+      <Filter>Source\Prueba_TrooperBLack</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Prueba_TrooperBLack\ObjetoDestruible_Child.cpp">
+      <Filter>Source\Prueba_TrooperBLack</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Prueba_TrooperBLack\ObjetoDestruible_Child.h">
+      <Filter>Source\Prueba_TrooperBLack</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Prueba_TrooperBLack\Objeto_Bala_CPP.cpp">
+      <Filter>Source\Prueba_TrooperBLack</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Prueba_TrooperBLack\Objeto_Bala_CPP.h">
+      <Filter>Source\Prueba_TrooperBLack</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Prueba_TrooperBLack\Objeto_coleccionable_CPP.cpp">
+      <Filter>Source\Prueba_TrooperBLack</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Prueba_TrooperBLack\Objeto_coleccionable_CPP.h">
+      <Filter>Source\Prueba_TrooperBLack</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Prueba_TrooperBLack\Objeto_Destruible_CPP.cpp">
+      <Filter>Source\Prueba_TrooperBLack</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Prueba_TrooperBLack\Objeto_Destruible_CPP.h">
+      <Filter>Source\Prueba_TrooperBLack</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Prueba_TrooperBLack\Prueba_TrooperBLack.Build.cs">
+      <Filter>Source\Prueba_TrooperBLack</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Prueba_TrooperBLack\Prueba_TrooperBLack.cpp">
+      <Filter>Source\Prueba_TrooperBLack</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Prueba_TrooperBLack\Prueba_TrooperBLack.h">
+      <Filter>Source\Prueba_TrooperBLack</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Prueba_TrooperBLack\Prueba_TrooperBLackCharacter.cpp">
+      <Filter>Source\Prueba_TrooperBLack</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Prueba_TrooperBLack\Prueba_TrooperBLackCharacter.h">
+      <Filter>Source\Prueba_TrooperBLack</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Prueba_TrooperBLack\Prueba_TrooperBLackGameMode.cpp">
+      <Filter>Source\Prueba_TrooperBLack</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Prueba_TrooperBLack\Prueba_TrooperBLackGameMode.h">
+      <Filter>Source\Prueba_TrooperBLack</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Prueba_TrooperBLack\textoFlotante_CPP.cpp">
+      <Filter>Source\Prueba_TrooperBLack</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Prueba_TrooperBLack\textoFlotante_CPP.h">
+      <Filter>Source\Prueba_TrooperBLack</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Prueba_TrooperBLack\UserWidgetTextFlotante_CPP.cpp">
+      <Filter>Source\Prueba_TrooperBLack</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Prueba_TrooperBLack\UserWidgetTextFlotante_CPP.h">
+      <Filter>Source\Prueba_TrooperBLack</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Prueba_TrooperBLack\Widget_CambiarSkin_CPP.cpp">
+      <Filter>Source\Prueba_TrooperBLack</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Prueba_TrooperBLack\Widget_CambiarSkin_CPP.h">
+      <Filter>Source\Prueba_TrooperBLack</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Prueba_TrooperBLack\Widget_Cinematica_CPP.cpp">
+      <Filter>Source\Prueba_TrooperBLack</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Prueba_TrooperBLack\Widget_Cinematica_CPP.h">
+      <Filter>Source\Prueba_TrooperBLack</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Prueba_TrooperBLack\Widget_Ganar_CPP.cpp">
+      <Filter>Source\Prueba_TrooperBLack</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Prueba_TrooperBLack\Widget_Ganar_CPP.h">
+      <Filter>Source\Prueba_TrooperBLack</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Prueba_TrooperBLack\Widget_InfoObjJuego_CPP.cpp">
+      <Filter>Source\Prueba_TrooperBLack</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Prueba_TrooperBLack\Widget_InfoObjJuego_CPP.h">
+      <Filter>Source\Prueba_TrooperBLack</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Prueba_TrooperBLack\Widget_Inicio_CPP.cpp">
+      <Filter>Source\Prueba_TrooperBLack</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Prueba_TrooperBLack\Widget_Inicio_CPP.h">
+      <Filter>Source\Prueba_TrooperBLack</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Prueba_TrooperBLack\Widget_NivelJuego_CPP.cpp">
+      <Filter>Source\Prueba_TrooperBLack</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Prueba_TrooperBLack\Widget_NivelJuego_CPP.h">
+      <Filter>Source\Prueba_TrooperBLack</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Prueba_TrooperBLack\Widget_Perder_CPP.cpp">
+      <Filter>Source\Prueba_TrooperBLack</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Prueba_TrooperBLack\Widget_Perder_CPP.h">
+      <Filter>Source\Prueba_TrooperBLack</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Prueba_TrooperBLack\Zona_Victoria_CPP.cpp">
+      <Filter>Source\Prueba_TrooperBLack</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Prueba_TrooperBLack\Zona_Victoria_CPP.h">
+      <Filter>Source\Prueba_TrooperBLack</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

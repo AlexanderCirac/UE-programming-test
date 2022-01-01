@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Prueba_TrooperBLack",
+			"Path": "C:\\Users\\alexe\\Desktop\\Prueba_TrooperBLack\\Source\\Prueba_TrooperBLack.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Prueba_TrooperBLackEditor",
+			"Path": "C:\\Users\\alexe\\Desktop\\Prueba_TrooperBLack\\Source\\Prueba_TrooperBLackEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

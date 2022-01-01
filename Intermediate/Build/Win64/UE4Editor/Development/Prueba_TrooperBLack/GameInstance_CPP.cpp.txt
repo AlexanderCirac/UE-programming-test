@@ -1,0 +1,3 @@
+C:\Users\alexe\Desktop\Prueba_TrooperBLack\Intermediate\Build\Win64\UE4Editor\Development\Prueba_TrooperBLack\Definitions.Prueba_TrooperBLack.h
+C:\Users\alexe\Desktop\Prueba_TrooperBLack\Source\Prueba_TrooperBLack\GameInstance_CPP.h
+C:\Users\alexe\Desktop\Prueba_TrooperBLack\Intermediate\Build\Win64\UE4Editor\Inc\Prueba_TrooperBLack\GameInstance_CPP.generated.h
